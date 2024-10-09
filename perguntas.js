@@ -29,31 +29,31 @@ criaCartao(
 )
 
 criaCartao(
-    'Título 6',
-    'Pergunta 6',
-    'Resposta 6'
+    'História',
+    'De quem é a famosa frase “Penso, logo existo”?',
+    ' Descartes'
 )
 
 criaCartao(
-    'Título 7',
-    'Pergunta 7',
-    'Resposta 7'
+    'curiosidade',
+    'De onde é a invenção do chuveiro elétrico?',
+    'Brasil'
 )
 
 criaCartao(
-    'Título 8',
-    'Pergunta 8',
-    'Resposta 8'
+    'Matemática',
+    'Atualmente, quantos elementos químicos a tabela periódica possui?',
+    '118'
 )
 
 criaCartao(
-    'Título 9',
-    'Pergunta 9',
-    'Resposta 9'
+    'Fisica',
+    'Quanto tempo a luz do Sol demora para chegar à Terra?',
+    '8 minutos'
 )
 
 criaCartao(
-    'Título 10',
-    'Pergunta 10',
-    'Resposta 10'
+    'Geografia',
+    'Qual a montanha mais alta do Brasil?',
+    'Pico da Neblina'
 )
